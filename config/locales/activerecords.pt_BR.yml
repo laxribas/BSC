@@ -1,0 +1,12 @@
+pt-BR:
+  activerecord:
+    model:
+      attributes:
+        usuario: 'Usuários'
+          id: 'Cod'
+          usuario_apelido: 'Apelido do Usuário'
+          usuario_email: 'Usuário E-mail'
+          usuario_password_hash: 'Usuário Senha valor'
+          usuario_password_salt: 'Usuário Senha complemento'
+          usuario_nome: 'Nome do usuário'
+          usuario_responsavel: 'Responsável'
